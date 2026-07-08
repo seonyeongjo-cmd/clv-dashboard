@@ -1,0 +1,8 @@
+# Ignore everything by default
+*
+
+# Allow the specific PPTX file we want to push
+!AX 마케팅전략 Part 2 수정중.pptx
+
+# Allow .gitignore
+!.gitignore
